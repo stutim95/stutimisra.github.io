@@ -1,6 +1,6 @@
 (function(){
 
-    var app = angular.module('app', []);
+    var app = angular.module('MyApp', ['ngMaterial']);
     var menu=[
         "About", "Resume","Work Experience"];
      
